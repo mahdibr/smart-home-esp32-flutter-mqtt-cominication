@@ -50,9 +50,8 @@ Website: https://shahtut.com
 Developed for: Bahram Kit Company
 Store Website: https://bahramkit.com
 Instagram: https://www.instagram.com/bahramkit/
-
-tutorial link : https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-4-1-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%a7%d8%b2-esp32-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d9%87-%d8%a7%d9%be%d9%84%db%8c/
 ```
+
 📎 [tutuoral link](https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-4-1-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%a7%d8%b2-esp32-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d9%87-%d8%a7%d9%be%d9%84%db%8c/)
 ---
 
@@ -71,8 +70,8 @@ tutorial link : https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%
 
 ### پیش‌نیازها
 
-* **برد ESP32**
-* **نرم‌افزار Arduino IDE** یا PlatformIO
+* *برد ESP32**
+**نرم‌افزار Arduino IDE** یا PlatformIO
 * کتابخانه‌های مورد نیاز:
 
   * `WiFi.h`
@@ -108,7 +107,6 @@ tutorial link : https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%
 طراحی شده برای: شرکت بهرام کیت
 وبسایت فروشگاه: https://bahramkit.com
 اینستاگرام: https://www.instagram.com/bahramkit/
-لینک آموزش : https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-4-1-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%a7%d8%b2-esp32-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d9%87-%d8%a7%d9%be%d9%84%db%8c/
 ```
 
 📎 [لینک آموزش](https://www.bahramkit.com/%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-4-1-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%a7%d8%b2-esp32-%d8%a2%d8%b1%d8%af%d9%88%db%8c%d9%86%d9%88-%d8%a8%d9%87-%d8%a7%d9%be%d9%84%db%8c/)
