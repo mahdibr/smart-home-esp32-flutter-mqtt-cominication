@@ -1,3 +1,15 @@
+/*
+  نویسنده: مهدی بهرام
+  https://www.instagram.com/mahdi1bahram/
+
+  شرکت: مخترعین شاتوت الکترونیک
+  وبسایت: shahtut.com
+
+  طراحی شده به سفارش شرکت  بهرام کیت 
+  وب سایت فروشگاه : bahramkit.com
+  https://www.instagram.com/bahramkit/
+*/
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <PubSubClient.h>
